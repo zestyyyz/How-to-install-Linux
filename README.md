@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/80676441/176809122-b8b39a97-8835-4cde-b89a-79ca03d3699b.png)
+
 HOW TO INSTALL LINUX!!!!
 
 Requirements.
